@@ -1,0 +1,4 @@
+.venv/
+.idea/
+__pycache__/
+do_not_push_me.py
